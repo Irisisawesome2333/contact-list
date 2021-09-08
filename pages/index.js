@@ -10,7 +10,7 @@ export default function Home() {
     <>
       <Head>
         <title>Contact List | Home</title>
-        <meta name="keywords" content="ninjas" />
+        <meta name="keywords" content="contacts" />
       </Head>
 
       <div>
